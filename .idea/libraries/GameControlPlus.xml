@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="GameControlPlus">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../libs/GameControlPlus V1.2.2/GameControlPlus/library/GameControlPlus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/GameControlPlus/library/GameControlPlus.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
