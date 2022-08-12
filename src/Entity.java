@@ -83,15 +83,6 @@ public class Entity extends PApplet {
     }
 
     /**
-     * scales image by factor
-     * @param factor scaling factor
-     */
-    public void scale(double factor) {
-        bounds.setWidth((int) (bounds.getWidth() * factor));
-        bounds.setHeight((int) (bounds.getHeight() * factor));
-    }
-
-    /**
      * @return entity's height
      */
     public int getHeight() {
