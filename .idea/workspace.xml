@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ec690cc-4f80-4c3f-a1c5-c32b41d33d37" name="Changes" comment="Revert &quot;[UNI] added scale functionality to Entity.java&quot;&#10;&#10;This reverts commit 91911834">
+    <list default="true" id="6ec690cc-4f80-4c3f-a1c5-c32b41d33d37" name="Changes" comment="[UNI] refactor res dir into src">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/BGcartoon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/BGcartoon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Dasc1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Dasc1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Dasc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Dasc2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Dasc3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Dasc3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Dis1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Dis1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Dis2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Dis2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Dis3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Dis3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Star.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Star.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/area 1 BG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/area 1 BG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/area 2 BG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/area 2 BG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/area 3 BG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/area 3 BG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/area 4 BG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/area 4 BG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/area 4 alt BG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/area 4 alt BG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/area 5 BG.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/area 5 BG.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/atra1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/atra1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/atra2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/atra2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/atra3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/atra3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/eels1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/eels1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/eels2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/eels2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/eels3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/eels3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/logitech config" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/logitech config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/lorb1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/lorb1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/lorb2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/lorb2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/lorb3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/lorb3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/reef background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/reef background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/reef.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/reef.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/shrimp1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/shrimp1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/shrimp2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/shrimp2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/shrimp3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/shrimp3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/slug1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/slug1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/slug2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/slug2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/slug3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/slug3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/spiro1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/spiro1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/spiro2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/spiro2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/spiro3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/spiro3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/sponge1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/sponge1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/sponge2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/sponge2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/sponge3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/sponge3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/target.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/target.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/trapez1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/trapez1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/trapez2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/trapez2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/trapez3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/trapez3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Reef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reef.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +91,7 @@
       <workItem from="1660270709028" duration="2808000" />
       <workItem from="1660276554860" duration="1534000" />
       <workItem from="1660280157184" duration="325000" />
-      <workItem from="1660280494712" duration="250000" />
+      <workItem from="1660280494712" duration="3929000" />
     </task>
     <task id="LOCAL-00001" summary="[UNI] init project">
       <created>1660271213582</created>
@@ -177,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660280184207</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[UNI] refactor res dir into src">
+      <created>1660280874374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660280874374</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +166,7 @@
     <MESSAGE value="[UNI] added res pictures" />
     <MESSAGE value="[UNI] added scale functionality to Entity.java" />
     <MESSAGE value="Revert &quot;[UNI] added scale functionality to Entity.java&quot;&#10;&#10;This reverts commit 91911834" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;[UNI] added scale functionality to Entity.java&quot;&#10;&#10;This reverts commit 91911834" />
+    <MESSAGE value="[UNI] refactor res dir into src" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UNI] refactor res dir into src" />
   </component>
 </project>
