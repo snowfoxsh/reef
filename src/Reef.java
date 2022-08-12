@@ -4,7 +4,7 @@ import processing.core.PImage;
 public class Reef extends PApplet {
     public static void main(String[] args) { PApplet.main("Reef"); }
 
-    private final String res = "../res/";
+    private final String res = "res/";
 
     Entity star;
 
